@@ -1,0 +1,631 @@
+{
+	"e-title-0": {
+		"ru": "Год рождения",
+		"en": "Birth year",
+		"uk": "Рік нарождення"
+	},
+	"e-title-1": {
+		"ru": "Окончил лицей",
+		"en": "I had graduated from lyceum",
+		"uk": "Закінчив ліцей"
+	},
+	"e-title-3": {
+		"ru": "Техник частной локальной сети",
+		"en": "Technician of private local network",
+		"uk": "Технік приватної локальной мережі"
+	},
+	"e-title-4": {
+		"ru": "Окончил университет",
+		"en": "I had graduated from University",
+		"uk": "Закінчив університет"
+	},
+	"e-title-5": {
+		"ru": "Техник-администратор Airbites",
+		"en": "Technician-administrator of Airbites",
+		"uk": "Технік-адміністратор Airbites"
+	},
+	"e-title-6": {
+		"ru": "Копирайтер/SEO оптимизатор/Контент-менеджер",
+		"en": "Copyrighter/SEO optimizer/Content-manager",
+		"uk": "Копірайтер/SEO оптимізатор/Контент-менеджер"
+	},
+	"e-title-7": {
+		"ru": "HTML/CSS верстальщик",
+		"en": "HTML/CSS coder",
+		"uk": "HTML/CSS верстальщик"
+	},
+	"e-title-9": {
+		"ru": "В настоящий момент...",
+		"en": "Currently...",
+		"uk": "В даний час..."
+	},
+	
+
+	"e-desc-0": {
+		"ru": "Родился, проживаю и работаю в Харькове",
+		"en": "I was born in Kharkiv, where live and work now",
+		"uk": "Народився, мешкаю та працюю в Харкові"
+	},
+	"e-desc-1": {
+		"ru": "Окончил Харьковский Экономический Лицей №161",
+		"en": "I had graduated from Kharkiv's University of Economy n.161",
+		"uk": "Закінчив Харківський Економічний Ліцей №161"
+	},
+	"e-desc-3": {
+		"ru": "Подключение пользователей, расширение покрытия ЛВС, переоборудование, настройка оборудования",
+		"en": "Connection of new users, expansion of network lines, re-equipment, adjustment of equipment",
+		"uk": "Підключення користувачів, розширення покриття ЛРМ, переобладнання, налаштування обладнанная"
+	},
+	"e-desc-4": {
+		"ru": "Окончил Харьковский Национальный Экономический Университет (ХНЭУ) с отличием. Диплом - разработка автоматизированного модуля 'Мониторинг расчетов за предоставленные информационные услуги локальной сети' - отлично (10)",
+		"en": "I had graduated from Kharkiv National University of Economy (KNUE) with honours. Diploma's theme - Development of automated module 'Monitoring of payments for provided services in private local network' - excellent (10)",
+		"uk": "Закінчив Харківський Національний Економічний Університет (ХНЕУ) на відміну. Диплом - розробка автоматизованого модулю 'Моніторинг розрахунків за надані інформаційні послуги локальної мережі' - відмінно (10)"
+	},
+	"e-desc-5": {
+		"ru": "Настройка сетевого оборудования, пользовательских компьютеров, прокладка новых и обслуживание существующих линий ЛВС",
+		"en": "Adjustment of network's equipments and user's computers, cabling of new and maintenance of existed lines",
+		"uk": "Налаштування мережевого обладнання, користувальницьких компьютерів, проведення нових та обслуговування існуючих ліній ЛРМ"
+	},
+	"e-desc-6": {
+		"ru": "Фрилансер - написание статей, оптимизация сайта для продвижения в поисковиках, добавление контента на сайт через админку и напрямую в код",
+		"en": "Freelancer - writing articles, optimizing of websites for promoting in searching systems, adding of content on websites through admin-panels or straight in html-code",
+		"uk": "Фрилансер - написання статей, оптимізація сайтів для просування у пошуковиках, додання контенту на сайти через адмінки та безпосередньо в код"
+	},
+	"e-desc-7": {
+		"ru": "Фрилансер - верстка веб-страниц, адаптация CMS шаблонов под макет заказчика, исправление ошибок кроссбраузерности, создание дизайна",
+		"en": "Freelancer - mark-up of webpages, adapting of CMS templates for customer's requirements, fixing of bugs, designs creating",
+		"uk": "Фрилансер - верстка веб-сторінок, адаптація CMS шаблонів під макет замовника, виправлення помилок кроссбраузерності, створення дизайну"
+	},
+	"e-desc-8": {
+		"ru": "Фрилансер, а позже сотрудник 2-х компаний. В обязанности входило – создание интерфейсов, полный цикл производства от разработки концепции и до размещения на хостинге, добавление динамики на страницах с помощью JavaScript и функционала с помощью PHP",
+		"en": "Freelancer, and after staff member of 2 companies. The responsibilities included – creating interfaces, full part of websites production ranging from creation of concept to hosting the sites on internet, finding domains, adding dynamic through JavaScript and functional through PHP",
+		"uk": "Фрилансер, а пізніше співробітник в двох компаніях. В обов'язки входило - створення сайтів, повний цикл виробництва від розробки концепції и до розміщення на хостингу, додання динаміки на сторінки за допомогою JavaScript та функционалу за допомогою PHP"
+	},
+	"e-desc-9": {
+		"ru": "являюсь соискателем на должность Frontend Developer с возможностью развиваться в React/Angular, Node.js, React Native. Интересуют проекты в команде, которыми можно гордиться, а не просто получать за них деньги. Также, работая в команде, больше возможностей для технического роста и развития в других областях программирования",
+		"en": "Now I am applicant on React Frontend Developer post in big company in Kharkiv. I am interested in team projects, which I will be proud of, unlike of just having payment for this. Also I want to improve my technical skills working in team's projects.",
+		"uk": "сподіваюсь на посаду Frontend Developer с можливістю розвиватись в напрямку React/Angular, Node.js, React Native. Цікавлять проекти в команді, якими можна буде пишатись, а не тільки отримувати за них гроші. Також, працюючи в команді, більше можливостей для технічного зрісту та розвитку в інших галузях программування"
+	},
+
+	"exp-head": {
+		"ru": "Опыт",
+		"en": "Experience",
+		"uk": "Досвіт"
+	},
+	"skill-head": {
+		"ru": "Навыки",
+		"en": "Skills",
+		"uk": "Навички"
+	},
+	"pers-head": {
+		"ru": "Личные качества",
+		"en": "Personalitites",
+		"uk": "Особисті якості"
+	},
+	"int-head": {
+		"ru": "Интересы",
+		"en": "Hobbies",
+		"uk": "Захоплення"
+	},
+	"por-head": {
+		"ru": "Мои работы",
+		"en": "Portfolio",
+		"uk": "Мої роботи"
+	},
+	"aim-head": {
+		"ru": "Цель",
+		"en": "Purpose",
+		"uk": "Мета"
+	},
+	"sk-head-1": {
+		"ru": "Разбираюсь подробно",
+		"en": "Understand in details",
+		"uk": "Розбираюсь детально"
+	},
+	"sk-head-2": {
+		"ru": "Знаком с технологией",
+		"en": "Non-commercial experience with technology",
+		"uk": "Знайом з технологією"
+	},
+	"sk-head-3": {
+		"ru": "Изучал в университете",
+		"en": "Learned in university",
+		"uk": "Вивчав в університеті"
+	},
+
+
+	"p-title-0": {
+		"ru": "Усидчивость",
+		"en": "Tolerance",
+		"uk": "Усидчивість"
+	},
+	"p-title-1": {
+		"ru": "Коммуникабельность",
+		"en": "Sociability",
+		"uk": "Комунікабельність"
+	},
+	"p-title-2": {
+		"ru": "Обучаемость",
+		"en": "Learnability",
+		"uk": "Здатність до навчання"
+	},
+	"p-title-3": {
+		"ru": "Перфекционизм",
+		"en": "Perfectionist",
+		"uk": "Перфекционізм"
+	},
+	"p-title-4": {
+		"ru": "Целеустремленность",
+		"en": "Purposefulness",
+		"uk": "Цілеспрямованність"
+	},
+	"p-title-5": {
+		"ru": "Саморазвитие",
+		"en": "Self-development",
+		"uk": "Саморозвиток"
+	},
+	"p-title-6": {
+		"ru": "Трудолюбие",
+		"en": "Industriousness",
+		"uk": "Працьовитість"
+	},
+	"p-title-7": {
+		"ru": "Настойчивость",
+		"en": "Perseverance",
+		"uk": "Наполегливість"
+	},
+	"p-title-8": {
+		"ru": "Увлеченность",
+		"en": "Enthusiast",
+		"uk": "Захопленність"
+	},
+
+
+	"p-desc-0": {
+		"ru": "могу подолгу находиться на одном месте и заниматься одним делом",
+		"en": "I can stay in one place and making the same deal a long time without any discomforts",
+		"uk": "можу подовгу знаходитись на одному місці та займатись одною справою"
+	},
+	"p-desc-1": {
+		"ru": "умею работать в команде, легко нахожу общий язык, умею решать конфликтные ситуации",
+		"en": "I'am good in team work, easily make point with parts of a team, have ability to resolve conflict situations",
+		"uk": "вмію працювати в команді, легко знаходжу спільну мову, вмію вирішувати конфліктні ситуації"
+	},
+	"p-desc-2": {
+		"ru": "быстро осваиваю новую информацию и умею в кратчайшие сроки начать пользоваться незнакомым языком или технологией",
+		"en": "Understand new information quickly, know how quickly begin to use of unknown language or technology",
+		"uk": "швидко освоюю нову інформацію та вмію в найкоротші терміни почати користуватися незнайомою мовою або технологією"
+	},
+	"p-desc-3": {
+		"ru": "стараюсь во всем добиться идеала и не терплю хаоса",
+		"en": "I always try to do every deal perfectly and I can't put up with chaos",
+		"uk": "намагаюсь у всьому досягти ідеалу и не терплю хаосу"
+	},
+	"p-desc-4": {
+		"ru": "стараюсь довести дело до конца, даже если реализация доставляет немало трудностей",
+		"en": "I always try to get every deal done, even if it's implementation is so difficult",
+		"uk": "намагаюсь довести справу до кінця, навідь якщо реалізація доставляє чимало трудностей"
+	},
+	"p-desc-5": {
+		"ru": "всегда пытаюсь поднять свой уровень квалификации в любом деле",
+		"en": "Always try to improve my skills in every part of profession",
+		"uk": "завжди намагаюсь підняти свій рівень кваліфікації в будь-якій справі"
+	},
+	"p-desc-6": {
+		"ru": "получаю удовольствие от оправданной работы и сдержанно отношусь к рутине",
+		"en": "I enjoy with justifiable work and tolerance to chore",
+		"uk": "отримую задоволення від виправданої праці та стриманно відношусь до рутини"
+	},
+	"p-desc-7": {
+		"ru": "умею настоять на своем, если этого требует ситуация",
+		"en": "I can stand on my own if it necessarily",
+		"uk": "вмію настояти на своєму, якщо цього вимагає ситуація"
+	},
+	"p-desc-8": {
+		"ru": "если меня заинтересовать, то по-уши погружаюсь в дело и делаю его очень хорошо",
+		"en": "If I will interested with something, I can immerse in work and finish it in the best view",
+		"uk": "якщо мене зацікавити, то повністю занурююсь в справу та роблю її дуже добре"
+	},
+	
+	"aim-0": {
+		"ru": "Освоить Backend и node.js, а также React Native для создания мобильных приложений. Мечтаю также выучить Java и Swift для разработки приложений под Android и Apple устройства. Стремлюсь стать программистом, который знает ответ на любой вопрос, и достигнуть уровня Senior",
+		"en": "Learn node.js, backend and react native to create mobile applications. Also I dream to learn Java and Swift for android and iOS developing. I aspire to become an all known programmer and attain Senior level",
+		"uk": "Освоїти Backend и node.js, а також React Native для створення мобільних додатків. Мрію вивчити Java и Swift для розробки додатків під Android и Apple пристроїв. Прагну стати программістом, який знає відповіть на будь-яке питання, та досягнути рівня Senior"
+	},
+
+
+	"i-desc": {
+		"ru": "В моей жизни много увлечений, которые позволяют мне не сойти с ума, хорошо провести свободное время и самосовершенствоваться...",
+		"en": "In my live a lot of hobbies, which help me to keep myself from going crazy, have a good time and improve myself...",
+		"uk": "В моєму житті багато захоплень, які дають мені змогу не з'їхати з глузду, добре провести вільний час та самовдосконалюватися..."
+	},
+
+
+	"i-title-0":{
+		"ru": "В настоящее время моё главное увлечение – это кодить",
+		"uk": "В даний час моє головне захоплення – це кодити",
+		"en": "Currently my main hobby - it's coding"
+	},
+	"i-title-1":{
+		"ru": "В свободное время могу прочитать одну-две книги известных авторов",
+		"uk": "В вільний час можу прочитати одну-дві книги відомих авторів",
+		"en": "At free time I can read several books of well-known authors"
+	},
+	"i-title-2":{
+		"ru": "Музыка - незаменимый спутник. В моем mp3 плеере вседа найдется нужный трек",
+		"uk": "Музика - незамінний супутник. В моєму mp3 плеєру завжди знайдется потрібний трек",
+		"en": "Music - it's essential companion. In my MP3 player always has needed track"
+	},
+	"i-title-3":{
+		"ru": "Такие игры как УНО, Алиас, Монополия, Мафия - это отличный повод встретиться с друзьями и повеселиться",
+		"uk": "Такі гри як УНО, Аліас, Монополія, Мафія - це відмінний привід зустрітися з друзями та весело провести час",
+		"en": "Such games as UNO, Alias, Monopoly, Mafia - it's a good reason to meet with my friends and have a good time with them"
+	},
+	"i-title-4":{
+		"ru": "Велосипед для меня это способ активно провести досуг, особенно в компании с друзьями на длинных поездках",
+		"uk": "Велосипед для мене це спосіб активно провести дозвілля, особливо в компанії друзів на довгих поїздках",
+		"en": "Bicycle it's a reason to get active leisure, especially in a company of my friends during a long trip"
+	},
+	"i-title-5":{
+		"ru": "Сноуборд – мое экстремальное увлечение №1. Жаль только зима не круглый год",
+		"uk": "Сноуборд – моє екстремальне захоплення №1. Нажаль тільки зима не цілий рік",
+		"en": "Snowboard – it's my major extreme hobby. It's a pity that the winter is not last all year"
+	},
+	"i-title-6":{
+		"ru": "Виндсерф – это увлечение юности, а также один из видов спорта, в котором я преуспел",
+		"uk": "Віндсерфінг – це захоплення юності, а також один з видів спорту, в якому я досяг успіху",
+		"en": "Windsurf – it's a youth's hobby, and a kind of sport, where I've had succeed"
+	},
+	"i-title-7":{
+		"ru": "Кайт – это свобода на морских волнах. Во время поездки на море обязательно выхожу в море с кайтом",
+		"uk": "Кайт – це свобода на морських хвилях. Під час поїздки на море обов'язково виходжу в море з кайтом",
+		"en": "Kite – it's a freedom on sea's spaces. During sea trip I definitely go into the sea with kite equipment"
+	},
+	"i-title-8":{
+		"ru": "Йога позволяет мне чувствовать себя хорошо, даже несмотря на часы проведенные на стуле",
+		"en": "Yoga help me to feel myself good, even under long sitting on the chair",
+		"uk": "Йога дозволяє мені відчувати себе добре, навідь незважаючи на години проведені на стільці"
+	},
+	"i-title-9":{
+		"ru": "Теннис – увлечение детства, переросшее в нечто большее. Перед университетом был КМС-ом, сегодня просто любитель",
+		"uk": "Теніс – захоплення дитинства, яке переросло в дещо більше. Перед інститутом вам розряд КМС, сьогодні просто любитель",
+		"en": "Tennis – it's a hobby of my youth, which have growned in something more. Before study in university I had category if Candidate Master of Sports, but now i'm just amateur"
+	},
+	"i-title-10":{
+		"ru": "Не курю, что также помогает мне чувствовать себя хорошо",
+		"uk": "Не курю, что також допомогає мені відчувати себе добре",
+		"en": "I don't smoke, what help me feel myself good too"
+	},
+	"i-title-11":{
+		"ru": "Алкоголь не употребляю",
+		"uk": "Алкоголь не вживаю",
+		"en": "I don't drink alcohol"
+	},
+	"i-title-12":{
+		"ru": "Не употребляю никакие наркотики",
+		"uk": "Не вживаю ніяких наркотиків",
+		"en": "I don't do any drugs"
+	},
+	"i-title-13":{
+		"ru": "Стараюсь не тратить свое свободное время на компьютерные игры",
+		"uk": "Намагаюсь не витрачати свій вільний час на компьютерні ігры",
+		"en": "I try to save my free time to more usefull things instead of computer game"
+	},
+	"i-title-14":{
+		"ru": "Не склонен к недовольству, ворчливости и агрессии",
+		"uk": "Не схильний к незадоволенню, буркотливості та агрессії",
+		"en": "I'm not inclined to dissatisfaction, grouchiness and angry"
+	},
+
+
+	"pf-title-0":{
+		"ru": "Наушники Magnat LZR",
+		"en": "Headphones Magnat LZR",
+		"uk": "Наушники Magnat LZR"
+	},
+	"pf-title-1":{
+		"ru": "Приложение 'Пиццерия'",
+		"en": "Application 'Pizzeria'",
+		"uk": "Додаток 'Піцерія'"
+	},
+	"pf-title-2":{
+		"ru": "Справочник на React",
+		"en": "Handbook on React",
+		"uk": "Довідник на React"
+	},
+	"pf-title-3":{
+		"ru": "Интерактивное резюме",
+		"en": "Interactive Resume",
+		"uk": "Інтерактивне резюме"
+	},
+	"pf-title-4":{
+		"ru": "Прогноз погоды от Yahoo",
+		"en": "Weather forecast from Yahoo",
+		"uk": "Прогноз погоди от Yahoo"
+	},
+	"pf-title-5":{
+		"ru": "Интернет-магазин",
+		"en": "Online store",
+		"uk": "Інтернет-магазин"
+	},
+	"pf-title-6":{
+		"ru": "Новостной портал",
+		"en": "News portal",
+		"uk": "Новинний портал"
+	},
+	"pf-title-8":{
+		"ru": "Сайт видео-студии",
+		"en": "Website of video studio",
+		"uk": "Сайт видео-студії"
+	},
+	"pf-title-9":{
+		"ru": "Сайт iCharger",
+		"en": "Landing page iCharger",
+		"uk": "Сайт iCharger"
+	},
+	"pf-title-12":{
+		"ru": "SEO за 20 минут",
+		"en": "SEO for 20 minutes",
+		"uk": "SEO за 20 хвилин"
+	},
+	"pf-title-14":{
+		"ru": "Блог 'По секрету'",
+		"en": "Blog 'Po sekretu'",
+		"uk": "Блог 'По секрету'"
+	},
+	"pf-title-15":{
+		"ru": "LP ремонтной компании",
+		"en": "LP of repairing company",
+		"uk": "LP ремонтной компаніїї"
+	},
+	"pf-title-16":{
+		"ru": "Сайт-визитка",
+		"en": "Web business card",
+		"uk": "Сайт-візітка"
+	},
+
+	"pf-short-0": {
+		"ru": "Одностраничный сайт с нуля",
+		"en": "Landing page from scratch",
+		"uk": "Односторінковий сайт з нуля"
+	},
+	"pf-short-1": {
+		"ru": "Одностраничник на Angular 2 ES6",
+		"en": "Landing page on Angular 2 ES6",
+		"uk": "Односторінковий сайт на Angular"
+	},
+	"pf-short-2": {
+		"ru": "React ES6 приложение",
+		"en": "React ES6 application",
+		"uk": "React ES6 додаток"
+	},
+	"pf-short-3": {
+		"ru": "Приложение на React",
+		"en": "Application on React",
+		"uk": "Додаток на React"
+	},
+	"pf-short-4": {
+		"ru": "Приложение на React",
+		"en": "Application on React",
+		"uk": "Додаток на React"
+	},
+	"pf-short-5": {
+		"ru": "Дипломный проект на заказ",
+		"en": "Ordered graduation project",
+		"uk": "Дипломний проект пд замовлення"
+	},
+	"pf-short-6": {
+		"ru": "Учебный проект с нуля",
+		"en": "Educational project from scratch",
+		"uk": "Учбовий проект з нуля"
+	},
+	"pf-short-7": {
+		"ru": "Учебный проект с нуля",
+		"en": "Educational project from scratch",
+		"uk": "Учбовий проект з нуля"
+	},
+	"pf-short-8": {
+		"ru": "Сайт на шаблоне HTML5/JS",
+		"en": "Website of HTML5/JS template",
+		"uk": "Сайт на шаблоні HTML5/JS"
+	},
+	"pf-short-9": {
+		"ru": "Одностраничный сайт за день",
+		"en": "Landing page for one day",
+		"uk": "Односторінковий сайт за день"
+	},
+	"pf-short-14": {
+		"ru": "Сайт на Wordpress",
+		"en": "Wordpress website",
+		"uk": "Сайт на Wordpress"
+	},
+	"pf-short-15": {
+		"ru": "Верстка на wordpress",
+		"en": "Wordpress website",
+		"uk": "Верстка на Wordpress"
+	},
+	"pf-short-16": {
+		"ru": "Сайт на шаблоне SitePro",
+		"en": "website on SitePro template",
+		"uk": "Сайт на шаблоні SitePro"
+	},
+
+
+	"pf-desc-0": {
+		"ru": "Одностраничный сайт с нуля. Кастомный HTML5 Video плеер на главной, адаптивный дизайн с поддержкой на мобильных устройствах. Модульная структура JS скрипта.",
+		"en": "Custom HTML5 Video player on home page, responsive markup with support of mobile devices. Modular JS script.",
+		"uk": "Кастомний HTML5 Video плеєр на головній, адаптивний дизайн с підтримкою на мобільних пристроях. Модульна структура JS скрипту."
+	},
+	"pf-desc-1": {
+		"ru": "Учебный проект на Angular2 (angular-cli). На сайте реализован онлайн-магазин пиццы, сбор из ингредиентов и добавление в корзину. Все данные хранятся в localStorage.",
+		"en": "Learning project on Angular2 (angular-cli). On the website implemented online store of pizzas, compiling from ingredients and adding to basket. All data saving in localStorage.",
+		"uk": "Учбовий проект на Angular 2 (angular-cli). На сайту реалізован онлайн-магазин пици, сбір з інгредієнтів та додавання у кошик. Всі дані зберігаються у localStorage."
+	},
+	"pf-desc-2": {
+		"ru": "Интерактивная справка HTML тегов на React/Redux. Фильтрация, поиск, движущиеся меню с указателем. Проект готовился 5 дней с использованием платформы create-react-app.",
+		"en": "Interactive handbook of HTML tags on React/Redux technology. Filters, search, moveable menu with tag pointer. Project was developing during 5 days on the bundler create-react-app.",
+		"uk": "Інтерактивний довідник HTML тегов на React/Redux. Фільтрація, пошук, рухоме меню с вказівником. Проект готувався 5 дніві з використанням збірки create-react-app."
+	},
+	"pf-desc-3": {
+		"ru": "Приложение на React/Redux с изменением языка, просмотром работы из портфолио на разных разрешениях. Работа выполнена на сборке GULP, адаптивная верстка.",
+		"en": "Application on React/Redux with language changing feature, viewing work from portfolio on different resolutions. Wokr created on the GULP bundler, responsive design.",
+		"uk": "Додаток на React/Redux зі зміною мови, переглядом робот з портфоліо на різних пристроях. Робота виконана на сбірці GULP, адаптивна верстка."
+	},
+	"pf-desc-4": {
+		"ru": "Приложение прогноза погоды по городам мира. Использовалась Yahoo Weather Api, а также различные плагины React. Отображение прогноза погоды на неделю для каждого города.",
+		"en": "Application 'Yahoo weather forecast' of all cities of the world. Used Yahoo Weather Api and different React plugins. Forecast on a week with graph of temperatures.",
+		"uk": "Додаток прогнозу погоди по містах світу. Використовувалась Yahoo Weather Api, а також різноманітні плагіны React. Відображення прогнозу погоди на тиждень вперед для кожного міста."
+	},
+	"pf-desc-5": {
+		"ru": "Проект интернет магазина с самописной CMS. Категории, товары, добавление в корзину, изменение кол-ва товаров в корзине, авторизация. Есть админ-панель для управления товарами и категориями.",
+		"en": "Project of online store on the custom CMS with admin-panel. Categories, goods, adding to basket, managment of goods in basket, authorization.",
+		"uk": "Проект інтернет магазину із самопісною CMS. Категорії, товари, додання у кошик, зміна кількості товарів у кошику, авторизація. Є адмін-панель для керування товарами та категоріями."
+	},
+	"pf-desc-6": {
+		"ru": "Новостной портал реализован на PHP и БД MySQL. Разбивка новостей по категориям, дням и журналам. Добавление статей через админку, права пользователя на добавление и публикацию.",
+		"en": "News portal implemented on PHP and DB MySQL. Devision of news on category, dates and magazines. Adding of articles through admin-panel, Users rights to adding and publication of news.",
+		"uk": "Новинний портал реалізований на PHP и БД MySQL. Розподілення новин на категорії, дні та журнали. Додавання статей через адмінку, права користувачів на додавання та розміщення."
+	},
+	"pf-desc-7": {
+		"ru": "Проект с БД случайным образом выбирает игрока-победителя, которому начисляется ставка всех участников игры. БД фильтры игровых столов, списание средств с проигравших и добавление геймрума.",
+		"en": "Project on DB MySQL randomly choose winner from visitors, who get all bits of participants of the game. DB filters of game rooms, debit of losers and adding of new game rooms.",
+		"uk": "Проект с БД випадковим чином вибирає ігрока-переможця, якому нараховується ставка усіх учасників гры. БД фільтри ігрових столів, списання коштів у програвших и додання нового геймруму."
+	},
+	"pf-desc-8": {
+		"ru": "Адаптация HTML5 шаблона под нужды компании по производству видео рекламы. Внедрение видеофона, изменение скрипта, добавление возможности размещения видео с Youtube.",
+		"en": "Adapting of HTML5 template to the needs of company which creates video advertising. Introduction of videophone, changing of scripts, adding feature of sharing Youtube video.",
+		"uk": "Адаптація HTML5 шаблону під потреби компанії по виробництву відео реклами. Впровадження відеофона, зміна скрипту, додання можливості розміщення відео з Youtube."
+	},
+	"pf-desc-9": {
+		"ru": "Верстка одностраничного сайта с нуля за день. Требования – минимальный функционал, максимальная скорость. Подключение партнерки и плагина прокрутки.",
+		"en": "Markup of SPA for one day. Requirements – minimal functions, maximum speed. Embeding a parter script and using a scrolling script.",
+		"uk": "Верстка односторінкового сайту з нуля за день. Вимоги – мінімальний функціонал, максимальна швидкість. Підключення партнерки та плагіну прокрутки."
+	},
+	"pf-desc-10": {
+		"ru": "Кроссбраузерная верстка страницы по JPG макету. Реализация адаптивности на мое усмотрение.",
+		"en": "Crossbrowser markup of webpage by JPG layout. Responsive on my own opinion.",
+		"uk": "Кроссбраузерна верстка сторінки за JPG макетом. Реализація адаптивності на мій розсуд."
+	},
+	"pf-desc-11": {
+		"ru": "Кроссбраузерная верстка страницы по PSD макету с реализацией динамичного слайдера на JavaScript. Адаптивность на мое усмотрение. Препроцессор LESS.",
+		"en": "Crossbrowser markup of webpage by PSD layout with implementation of slider on JavaScript. Responsive on my own opinion. Preprocessor LESS used.",
+		"uk": "Кроссбраузерна верстка сторінки за PSD макетом з реализацією динамічного слайдеру на JavaScript. Адаптивність на мій розсуд. Препроцесор LESS."
+	},
+	"pf-desc-12": {
+		"ru": "Тренировочный проект. Кроссбраузерная верстка страницы 'пиксель в пиксель' по JPG макету.",
+		"en": "Trainy project. Crossbrowser markup of webpage by JPG layout.",
+		"uk": "Тренувальний проект. Кроссбраузерна верстка сторінки 'піксель в піксель' за JPG макетом."
+	},
+	"pf-desc-13": {
+		"ru": "Страница новостного портала по PSD макету с реализацией дизайна пиксель в пиксель. Использование SASS и дополнений к Chrome - 'PerfectPixel' и 'Pix to Pix'",
+		"en": "News hub webpage by PSD layout with pix to pix markup. Preprocessor SASS and Chrome extensions 'PerfectPixel' and 'Pix to Pix' are used",
+		"uk": "Сторінка новинного порталу за PSD макетом с реализацією дизайну піксель в піксель. Використання SASS та додатків к Chrome - 'PerfectPixel' и 'Pix to Pix'"
+	},
+	"pf-desc-14": {
+		"ru": "Адаптация Wordpress шаблона под блог заказчика. Наращивание функционала с помощью плагинов, изменение дизайна, добавление возможностей через изменение PHP скриптов. Размещение и поддержка сайта.",
+		"en": "Adapting of Wordpress template to blog of orderer. Enhancement of functionality through plugins, changing of design, adding features through PHP scripts. Hosting and support of website.",
+		"uk": "Адаптація Wordpress шаблону під блог замовника. Нарощування функционалу за допоомгою плагінів, зміна дизайну, добання можливостей через зміну PHP скриптів. Розміщення та підтримка сайту."
+	},
+	"pf-desc-15": {
+		"ru": "Натяжка одностраничника на Wordpress по PSD макету. Размещение сайта на хостинге и поддержка.",
+		"en": "Design stretching on Wordpress template by PSD layout. Hosting and support of website.",
+		"uk": "Натяжка односторінковика на Wordpress зі PSD макетом. Розміщення сайту на хостингу та підтримка."
+	},
+	"pf-desc-16": {
+		"ru": "Оформление сайта на готовом шаблоне SitePro с подключением рассылки, формы обратной связи, оплаты через InterKassa. Полный редизайн и наполнение с нуля",
+		"en": "Designed on SitePro template with implementing of mailing, feedback form, payment system InterKassa. Full redesing and filling from scratch",
+		"uk": "Оформлення сайту на готовому шаблоні SitePro з підключення розсилки, форми обратного зв'язку, оплати через InterKassa. Повний редизайн та наповнення з нуля"
+	},
+
+	"menu-0": {
+		"ru": "Перейти на аккаунт Djinni",
+		"en": "Go to account Djinni",
+		"uk": "Перейти до аккаунту Djinni"
+	},
+	"menu-1": {
+		"ru": "Перейти на репозиторий Git",
+		"en": "Go to repository Git",
+		"uk": "Перейти до репозиторія Git"
+	},
+	"menu-2": {
+		"ru": "Перейти на аккаунт LinkedIn",
+		"en": "Go to account LinkedIn",
+		"uk": "Перейти до аккаунту LinkedIn"
+	},
+	"menu-3": {
+		"ru": "Показать диплом",
+		"en": "Show the diploma",
+		"uk": "Показати диплом"
+	},
+	"menu-4": {
+		"ru": "Показать рецензию по диплому",
+		"en": "Show the diploma's review",
+		"uk": "Показати рецензію до диплому"
+	},
+	"menu-5": {
+		"ru": "Показать оценки",
+		"en": "Show university's grade",
+		"uk": "Показати оцінки"
+	},
+	"menu-6": {
+		"ru": "Скачать PDF версию резюме",
+		"en": "Download resume in PDF",
+		"uk": "Завантажити PDF версію резюме"
+	},
+	"menu-7": {
+		"ru": "Скачать DOC версию резюме",
+		"en": "Download resume in DOC",
+		"uk": "Завантажити DOC версію резюме"
+	},
+	"menu-8": {
+		"ru": "Распечатать резюме",
+		"en": "Print resume",
+		"uk": "Роздрукувати резюме"
+	},
+	"menu-9": {
+		"ru": "Переключить на русский язык",
+		"en": "Switch to Russian",
+		"uk": "Переключити на російську мову"
+	},
+	"menu-10": {
+		"ru": "Переключить на украинский язык",
+		"en": "Switch to Ukrainian",
+		"uk": "Переключити на українську мову"
+	},
+	"menu-11": {
+		"ru": "Переключить на английский язык",
+		"en": "Switch to English",
+		"uk": "Переключити на англійську мову"
+	},
+	"menu-12": {
+		"ru": "Открыть в iPhone 5",
+		"en": "Open in iPhone 5",
+		"uk": "Відкрити в iPhone 5"
+	},
+	"menu-13": {
+		"ru": "Открыть в Samsung Galaxy S7",
+		"en": "Open in Samsung Galaxy S7",
+		"uk": "Відкрити в Samsung Galaxy S7"
+	},
+	"menu-14": {
+		"ru": "Открыть в iPad Classic",
+		"en": "Open in iPad Classic",
+		"uk": "Відкрити в iPad Classic"
+	},
+	"menu-15": {
+		"ru": "Открыть в iPad Pro",
+		"en": "Open in iPad Pro",
+		"uk": "Відкрити в iPad Pro"
+	},
+	"menu-16": {
+		"ru": "Открыть в окне Notebook",
+		"en": "Open in Notebook window",
+		"uk": "Відкрити в окне Notebook"
+	},
+	"menu-17": {
+		"ru": "Открыть в окне Desktop Monitor",
+		"en": "Open in Desktop monitor",
+		"uk": "Відкрити в окне Desktop Monitor"
+	}
+
+}

@@ -1,0 +1,90 @@
+{
+	"localized": [
+		"title"
+	],
+
+	"desc" : "__key__i-desc",
+
+	"list" : [
+		{
+			"id": "0",
+			"image" : "code.png",
+			"title" : "__key__i-title-0"
+		},
+		{
+			"id": "1",
+			"image" : "book.png",
+			"title" : "__key__i-title-1"
+		},
+		{
+			"id": "2",
+			"image" : "music.png",
+			"title" : "__key__i-title-2"
+		},
+		{
+			"id": "3",
+			"image" : "games.png",
+			"title" : "__key__i-title-3"
+		},
+		{
+			"id": "4",
+			"image" : "bike.png",
+			"title" : "__key__i-title-4"
+		},
+		{
+			"id": "5",
+			"image" : "snow.png",
+			"title" : "__key__i-title-5"
+		},
+		{
+			"id": "6",
+			"image" : "wind.png",
+			"title" : "__key__i-title-6"
+		},
+		{
+			"id": "7",
+			"image" : "kite.png",
+			"title" : "__key__i-title-7"
+		},
+		{
+			"id": "8",
+			"image" : "yoga.png",
+			"title" : "__key__i-title-8"
+		},
+		{
+			"id": "9",
+			"image" : "table.png",
+			"title" : "__key__i-title-9"
+		},
+		{
+			"id": "10",
+			"image" : "smoke.png",
+			"title" : "__key__i-title-10",
+			"taboo": "1"
+		},
+		{
+			"id": "11",
+			"image" : "alco.png",
+			"title" : "__key__i-title-11",
+			"taboo": "1"
+		},
+		{
+			"id": "12",
+			"image" : "drug.png",
+			"title" : "__key__i-title-12",
+			"taboo": "1"
+		},
+		{
+			"id": "13",
+			"image" : "cgame.png",
+			"title" : "__key__i-title-13",
+			"taboo": "1"
+		},
+		{
+			"id": "14",
+			"image" : "angry.png",
+			"title" : "__key__i-title-14",
+			"taboo": "1"
+		}
+	]
+}

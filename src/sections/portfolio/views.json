@@ -1,0 +1,32 @@
+{
+	"iphone" : {
+		"scale" : "0.8387942333",
+		"width" : "320",
+		"height" : "568"
+	},
+	"samsung" : {
+		"scale" : "0.9375",
+		"width" : "720",
+		"height" : "1280"
+	},
+	"ipad" : {
+		"scale" : "0.8916030534",
+		"width" : "1536",
+		"height" : "2048"
+	},
+	"ipad-pro" : {
+		"scale" : "0.9",
+		"width" : "1668",
+		"height" : "2224"
+	},
+	"laptop" : {
+		"scale" : "0.7945084145",
+		"width" : "1366",
+		"height" : "768"
+	},
+	"desktop" : {
+		"scale" : "0.91796875",
+		"width" : "1920",
+		"height" : "1100"
+	}
+}

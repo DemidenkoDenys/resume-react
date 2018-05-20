@@ -1,0 +1,17 @@
+.portfolio-section{
+	margin-bottom: 50px;
+}
+
+.portfolio-list{
+	text-align: center;
+	padding-right: 10px;
+
+	@media screen and (min-width: 480px){
+		padding-right: 0;
+	}		
+}
+
+.portfolio-filters{
+	text-align: center;
+	margin-bottom: 20px;
+}

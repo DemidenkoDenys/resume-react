@@ -1,0 +1,23 @@
+.personalities-section{
+	vertical-align: top;
+
+	@media screen and (min-width: 768px){
+		width: 50%;
+		padding-right: 5%;
+		display: inline-block;
+	}
+}
+
+.personalities-list{
+	@media screen and (min-width: 480px){
+		padding-top: 20px;
+	}
+}
+
+.personalities-item{
+	margin-bottom: 15px;
+}
+
+.personalities-item__header{
+	margin-bottom: 5px;
+}

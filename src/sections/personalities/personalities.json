@@ -1,0 +1,54 @@
+{
+	"localized": [
+		"title",
+		"desc"
+	],
+
+	"list": [
+		{
+			"id" : "0",
+			"title": "__key__p-title-0",
+			"desc": "__key__p-desc-0"
+		},
+		{
+			"id" : "1",
+			"title": "__key__p-title-1",
+			"desc": "__key__p-desc-1"
+		},
+		{
+			"id" : "2",
+			"title": "__key__p-title-2",
+			"desc": "__key__p-desc-2"
+		},
+		{
+			"id" : "3",
+			"title": "__key__p-title-3",
+			"desc": "__key__p-desc-3"
+		},
+		{
+			"id" : "4",
+			"title": "__key__p-title-4",
+			"desc": "__key__p-desc-4"
+		},
+		{
+			"id" : "5",
+			"title": "__key__p-title-5",
+			"desc": "__key__p-desc-5"
+		},
+		{
+			"id" : "6",
+			"title": "__key__p-title-6",
+			"desc": "__key__p-desc-6"
+		},
+		{
+			"id" : "7",
+			"title": "__key__p-title-7",
+			"desc": "__key__p-desc-7"
+		},
+		{
+			"id" : "8",
+			"title": "__key__p-title-8",
+			"desc": "__key__p-desc-8"
+		}
+	]
+}

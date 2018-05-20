@@ -1,0 +1,81 @@
+{
+	"localized": [
+		"title",
+		"desc"
+	],
+
+	"list": [
+		{
+			"id": "0",
+			"year": "1984",
+			"title": "__key__e-title-0",
+			"desc": "__key__e-desc-0",
+			"image": "birthday.png",
+			"color": "ad378c"
+		},
+		{
+			"id": "1",
+			"year": "2001",
+			"title": "__key__e-title-1",
+			"desc": "__key__e-desc-1",
+			"image": "school.png",
+			"color": "fd3b56"
+		},
+		{
+			"id" : "3",
+			"title" : "__key__e-title-3",
+			"year" : "2005...",
+			"desc" : "__key__e-desc-3",
+			"image": "lan.png",
+			"color": "16439d"
+		},
+		{
+			"id" : "4",
+			"title" : "__key__e-title-4",
+			"year" : "2007",
+			"desc" : "__key__e-desc-4",
+			"image": "university.png",
+			"color": "71868b"
+		},
+		{
+			"id" : "5",
+			"title" : "__key__e-title-5",
+			"year" : "2008...",
+			"desc" : "__key__e-desc-5",
+			"image": "airbites.png",
+			"color": "f1251b"
+		},
+		{
+			"id" : "6",
+			"title" : "__key__e-title-6",
+			"year" : "2010...",
+			"desc" : "__key__e-desc-6",
+			"image": "copyright.png",
+			"color": "29bbea"
+		},
+		{
+			"id" : "7",
+			"title" : "__key__e-title-7",
+			"year" : "2015...",
+			"desc" : "__key__e-desc-7",
+			"image": "html.png",
+			"color": "f54f33"
+		},
+		{
+			"id" : "8",
+			"title" : "Frontend developer",
+			"year" : "2016...",
+			"desc" : "__key__e-desc-8",
+			"image": "frontend.png",
+			"color": "1ea16b"
+		},
+		{
+			"id" : "9",
+			"title" : "__key__e-title-9",
+			"year" : "2018...",
+			"desc" : "__key__e-desc-9",
+			"image": "now.png",
+			"color": "eed70b"
+		}
+	]
+}

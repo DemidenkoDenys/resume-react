@@ -1,0 +1,228 @@
+{
+	"localized": [
+		"title",
+		"short",
+		"desc"
+	],
+
+	"filters" : [
+		"All",
+        "css",
+        "sass",
+        "bootstrap",
+        "pixel perfect",
+        "javascript",
+        "jquery",
+        "angular 2",
+        "react",
+        "es6",
+        "php",
+        "sql",
+        "cms",
+        "webpack",
+        "gulp",
+        "responsive"
+	],
+
+	"list" : {
+		"magnat-lzr" : {
+			"link" : "http://magnat-lzr.demidenko-denys.pp.ua",
+			"title" : "__key__pf-title-0",
+			"short" : "__key__pf-short-0",
+			"desc" : "__key__pf-desc-0",
+			"techs" : [
+				"css",
+				"jquery",
+				"bootstrap",
+				"responsive"
+			]
+		},
+		"pizza" : {
+			"link" : "http://pizza.demidenko-denys.pp.ua",
+			"title" : "__key__pf-title-1",
+			"short" : "__key__pf-short-1",
+			"desc" : "__key__pf-desc-1",
+			"techs" : [
+				"css",
+				"typescript",
+				"angular 2",
+				"es6",
+				"webpack"
+			]
+		},
+		"react" : {
+			"link" : "http://html.demidenko-denys.pp.ua",
+			"title" : "__key__pf-title-2",
+			"short" : "__key__pf-short-2",
+			"desc" : "__key__pf-desc-2",
+			"techs" : [
+				"css",
+				"react",
+				"es6",
+				"webpack"
+			]
+		},
+		"resume": {
+			"link" : "http://demidenko-denys.pp.ua",
+			"title" : "__key__pf-title-3",
+			"short" : "__key__pf-short-3",
+			"desc" : "__key__pf-desc-3",
+			"techs" : [
+				"sass",
+				"react",
+				"es6",
+				"gulp",
+				"responsive"
+			]
+		},
+		"weather": {
+			"link" : "http://weather.demidenko-denys.pp.ua",
+			"title" : "__key__pf-title-4",
+			"short" : "__key__pf-short-4",
+			"desc" : "__key__pf-desc-4",
+			"techs" : [
+				"sass",
+				"react",
+				"es6",
+				"gulp",
+				"responsive"
+			]
+		},
+		"shoop" : {
+			"link" : "http://shop.demidenko-denys.pp.ua",
+			"title" : "__key__pf-title-5",
+			"short" : "__key__pf-short-5",
+			"desc" : "__key__pf-desc-5",
+			"techs" : [
+				"html",
+				"css",
+				"php",
+				"mysql",
+				"cms"
+			]
+		},
+		"neews" : {
+			"link" : "http://neews.demidenko-denys.pp.ua",
+			"title" : "__key__pf-title-6",
+			"short" : "__key__pf-short-6",
+			"desc" : "__key__pf-desc-6",
+			"techs" : [
+				"css",
+				"php",
+				"mysql",
+				"bootstrap"
+			]
+		},
+		"jokerbros" : {
+			"link" : "http://jokerbros.demidenko-denys.pp.ua",
+			"title" : "Game Room",
+			"short" : "__key__pf-short-7",
+			"desc" : "__key__pf-desc-7",
+			"techs" : [
+				"css",
+				"jquery",
+				"ajax",
+				"php",
+				"mysql"
+			]
+		},
+		"mmedia" : {
+			"link" : "http://mmedia.demidenko-denys.pp.ua",
+			"title" : "__key__pf-title-8",
+			"short" : "__key__pf-short-8",
+			"desc" : "__key__pf-desc-8",
+			"techs" : [
+				"css",
+				"javascript"
+			]
+		},
+		"icharger" : {
+			"link" : "http://icharger-official.pp.ua",
+			"title" : "__key__pf-title-9",
+			"short" : "__key__pf-short-9",
+			"desc" : "__key__pf-desc-9",
+			"techs" : [
+				"css",
+				"jquery",
+				"responsive"
+			]
+		},
+		"value" : {
+			"link" : "http://value.demidenko-denys.pp.ua",
+			"title" : "Value Garden Supply",
+			"short" : "Pixel Perfect Page",
+			"desc" : "__key__pf-desc-10",
+			"techs" : [
+				"css",
+				"pixel perfect",
+				"responsive"
+			]
+		},
+		"naturetour" : {
+			"link" : "http://nature.demidenko-denys.pp.ua",
+			"title" : "Nature Tour",
+			"short" : "Pixel Perfect Page",
+			"desc" : "__key__pf-desc-11",
+			"techs" : [
+				"sass",
+				"pixel perfect",
+				"responsive"
+			]
+		},
+		"seo20min" : {
+			"link" : "http://seo20min.demidenko-denys.pp.ua",
+			"title" : "__key__pf-title-12",
+			"short" : "Pixel Perfect Page",
+			"desc" : "__key__pf-desc-12",
+			"techs" : [
+				"css",
+				"pixel perfect"
+			]
+		},
+		"cloudsnews" : {
+			"link" : "http://clouds.demidenko-denys.pp.ua",
+			"title" : "Cloudnews",
+			"short" : "Pixel Perfect Page",
+			"desc" : "__key__pf-desc-13",
+			"techs" : [
+				"sass",
+				"pixel perfect"
+			]
+		},
+		"po-sekretu" : {
+			"link" : "http://po-sekretu.com",
+			"title" : "__key__pf-title-14",
+			"short" : "__key__pf-short-14",
+			"desc" : "__key__pf-desc-14",
+			"techs" : [
+				"css",
+				"wordpress",
+				"php",
+				"mysql",
+				"cms"
+			]
+		},
+		"paladium" : {
+			"link" : "http://paladium-m.ru",
+			"title" : "__key__pf-title-15",
+			"short" : "__key__pf-short-15",
+			"desc" : "__key__pf-desc-15",
+			"techs" : [
+				"css",
+				"wordpress",
+				"cms"
+			]
+		},
+		"jobshouse" : {
+			"link" : "http://mine-work.ru",
+			"title" : "__key__pf-title-16",
+			"short" : "__key__pf-short-16",
+			"desc" : "__key__pf-desc-16",
+			"techs" : [
+				"css",
+				"javascript",
+				"php"
+			]
+		}
+	}
+}

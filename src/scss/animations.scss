@@ -1,0 +1,8 @@
+.appear{
+	opacity: 0;
+}
+
+.animated{
+	transition: .5s .5s opacity;
+	opacity: 1;
+}
