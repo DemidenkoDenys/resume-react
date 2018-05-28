@@ -1,10 +1,4 @@
 {
-	"localized": [
-		"title",
-		"short",
-		"desc"
-	],
-
 	"filters" : [
 		"All",
         "css",

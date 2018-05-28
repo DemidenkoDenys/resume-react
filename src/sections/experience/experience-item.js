@@ -1,30 +1,32 @@
 import React from 'react';
 import { getTranslatedValue } from '../../selectors/localization.js';
 
-const ExperienceItem = ({ item, order, left, language }) => {
+const ExperienceItem = ({ item, order, index, left, language }) => {
 
-	let { title, year, desc, image, color } = item;
+	const rootClass = 'experience-item';
+
+	let { title, year, desc } = item;
 
 	return(
-		
-		<li className={ 'experience-item ' + ( !!left ? 'experience-item_top-left ' : 'experience-item_bottom-right' ) } 
-			style={{ order: order, msFlexOrder: order, color: `#${ color }` }}>
+	
+		<li className={ `${rootClass} ${rootClass}${!!left ? '_top-left' : '_bottom-right' }`} 
+			style={{ order: order, msFlexOrder: order }}>
 
-			<img className='experience-item__image appear' 
-				 src={ require(`../../images/experience/${ image }`) } 
-				 alt={ getTranslatedValue(title, language) }/>
+			<figure className={`${rootClass}__image-wrapper appear`}>
+				<div className={`${rootClass}__image`}/>
+			</figure>
 
-			<i className='experience-item__pointer' style={{ background: `#${ color }` }}></i>
+			<i className={`${rootClass}__pointer`}></i>
 
-			<h3 className='experience-item__header'>
-				<time className='experience-header__year' style={{ background: `#${ color }` }}>{ year }</time>
+			<h3 className={`${rootClass}__header`}>
+				<time className={`${rootClass}__year`}>
+					<span className={`${rootClass}__year-text`}>{ year }</span>
+				</time>
 				<span>{ getTranslatedValue(title, language) }</span>
 			</h3>
 
-			<p className="experience-item__description appear">{ getTranslatedValue(desc, language) }</p>
-
+			<p className={`${rootClass}__description appear`}>{ getTranslatedValue(desc, language) }</p>
 		</li>
-
 	);
 };
 

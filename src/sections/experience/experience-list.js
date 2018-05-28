@@ -16,6 +16,7 @@ const ExperienceList = ({ list, language }) => {
 				list.map((item, index) =>
 					<ExperienceItem item={ item } 
 									key={ item.id }
+									index={index}
 									order={ index % 2 === 0 ? ++upperCounter : ++lowerCounter } 
 									left={ index % 2 === 0 }
 									language={ language }

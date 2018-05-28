@@ -33,13 +33,10 @@ const PortfolioItem = ({ item, language, onSelect }) => {
 								<span className='portfolio-item__technologies-item' key={ item }>{ item }</span>)
 							}
 						</p>
-
 					</article>
 
 					<p className="portfolio-item__print-link">{ link }</p>
-
 				</Link>
-
 			</div>
 		</li>
 	)

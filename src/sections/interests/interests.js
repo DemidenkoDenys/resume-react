@@ -10,8 +10,6 @@ import "../../../node_modules/slick-carousel/slick/slick.scss";
 import "../../../node_modules/slick-carousel/slick/slick-theme.scss";
 import './interests.scss';
 
-
-
 export const Interests = ({ header, language }) => {
 
 	return(
@@ -51,6 +49,7 @@ export const Interests = ({ header, language }) => {
 
 const settings = {
 	dots: false,
+	// lazyLoad: 'ondemand',
 	infinite: true,
 	autoplay: false,
 	speed: 100,

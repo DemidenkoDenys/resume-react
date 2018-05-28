@@ -81,12 +81,8 @@ class PortfolioDetail extends React.Component {
     }
 
     componentDidUpdate(){
-        this.loadIframe(this.props.item.link)
-            .then(() => {
-                    this.scaleIframe();
-                    this.props.onIframeLoad(this.checkIframeOnScreen());
-                });
-            
+        this.scaleIframe();
+
         inView('.appear')
             .on('enter', (e) => {
                 e.classList.add('animated');
@@ -121,7 +117,7 @@ class PortfolioDetail extends React.Component {
 
                     <img className={ `work-in-frame__device-cover` }
                          src={ require(`../../../images/devices/${ this.props.viewMode }.png`) } 
-                         alt={ `${ this.props.viewMode } device frame` }/>
+                         alt={ `${ this.props.viewMode } device frame` } />
 
                     <iframe className={ `work-in-frame work-in-frame_${ this.props.viewMode } work-in-frame_waiting`}
                             data-scale={ scale }
