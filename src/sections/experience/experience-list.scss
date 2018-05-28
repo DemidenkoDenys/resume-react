@@ -133,6 +133,10 @@
 			background-position: -50px * $i 0;
 		}
 	}
+
+	.experience-list_work-finded .experience-item:last-child &{
+		background-position: -450px 0;
+	}
 }
 
 .experience-item__header{

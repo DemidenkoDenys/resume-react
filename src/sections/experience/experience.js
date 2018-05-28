@@ -8,7 +8,7 @@ import { getTranslatedValue } from '../../selectors/localization.js';
 import CONTENT from './experience.json';
 
 
-export const Experience = ({ language, header }) => {
+export const Experience = ({ language, header, workFinded }) => {
 
 	return(
        
@@ -16,7 +16,7 @@ export const Experience = ({ language, header }) => {
 
 			<HeaderSection title={ getTranslatedValue(header, language) } />
 
-			<ExperienceList list={ CONTENT.list } language={ language } />
+			<ExperienceList list={ CONTENT.list } language={ language } workFinded={ workFinded }/>
 
 		</section>
 	);

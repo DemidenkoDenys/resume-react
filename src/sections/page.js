@@ -49,7 +49,7 @@ class Page extends Component {
 						
 						<Menu />
 
-						<Experience header={ HEADERS.experience } language={ this.props.language } />
+						<Experience header={ HEADERS.experience } language={ this.props.language } workFinded={ this.props.workFinded } />
 
 						<Skills headers={ HEADERS } language={ this.props.language } />
 
@@ -73,7 +73,8 @@ class Page extends Component {
 }
 
 const mapStateToProps = state => ({
- 	language: state.app.language
+	 language: state.app.language,
+	 workFinded: state.app.workFinded
 });
 
 // const actionsStateToProps = dispatch => ({

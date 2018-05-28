@@ -1,5 +1,6 @@
 const initialState = {
-	language: 'ru'
+	language: 'ru',
+	workFinded: true
 };
 
 const app = (state = initialState, action) => {

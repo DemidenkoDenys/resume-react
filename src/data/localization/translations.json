@@ -86,6 +86,11 @@
 		"en": "Now I am applicant on React Frontend Developer post in big company in Kharkiv. I am interested in team projects, which I will be proud of, unlike of just having payment for this. Also I want to improve my technical skills working in team's projects.",
 		"uk": "сподіваюсь на посаду Frontend Developer с можливістю розвиватись в напрямку React/Angular, Node.js, React Native. Цікавлять проекти в команді, якими можна буде пишатись, а не тільки отримувати за них гроші. Також, працюючи в команді, більше можливостей для технічного зрісту та розвитку в інших галузях программування"
 	},
+	"e-desc-10": {
+		"ru": "работаю в компании DigitalSuits в качестве frontend разработчика на React и Angular.",
+		"en": "Now I am working in DigitalSuits company as React and Angular developer",
+		"uk": "працюю в компанії DigitalSuits в якості React та Angular розробника"
+	},
 
 	"exp-head": {
 		"ru": "Опыт",
