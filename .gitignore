@@ -8,6 +8,7 @@
 
 # production
 /build
+/consumables
 
 # misc
 .DS_Store
